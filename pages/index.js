@@ -19,7 +19,7 @@ export default function Home() {
           <h1>Zayn Ul-Haq</h1>
           <p>Hi, My Name is Zayn Ul-Haq! I am currently a Computer Science Undergraduate studying at the Manchester Metropolitan University.
              I have completed my Second-Year finishing with both a 1st Class in both years. I love to brainstorm ideas and bring them to life using my programming and problem-solving skills.
-             This portfolio serves as a personal archive on the projects I am proud to showcase to others. Just like this website which is also developed by me! STILL WIP!</p>
+             This portfolio serves as a personal archive on the projects I am proud to showcase to others. Just like this website which is also developed by me!</p>
           <div>
             <a href="https://linkedin.com/in/your-profile" target="_blank" rel="noreferrer">
               <FaLinkedin size={24} /> LinkedIn
