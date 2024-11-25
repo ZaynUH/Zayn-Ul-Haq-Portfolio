@@ -34,6 +34,17 @@ export default function Home() {
           </div>
         </section>
 
+        {/* Curently Doing Section */}
+        <section id="currently-doing">
+          <h2>Currently Doing</h2>
+          <p>Here’s what I’m actively working on:</p>
+          <ul>
+            <li>Learning how navigate Vercel and NextJS Environments</li>
+            <li>Developing 3 Versions of the board game Battleships on a console application using: Python, Haskell and Rust.</li>
+            <li>Slowing devloping a Fanatsy Fighting game on Roblox</li>
+          </ul>
+        </section>
+
         {/* Skills Section */}
         <section id="skills">
           <h2>Programming Languages</h2>
