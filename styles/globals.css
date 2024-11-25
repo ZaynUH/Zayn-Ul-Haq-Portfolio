@@ -149,8 +149,8 @@ p {
 
 .projects {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  gap: 30px;
+  grid-template-columns: repeat(2, 1fr); /* 2 projects per row */
+  gap: 20px; /* Space between projects */
 }
 
 .project {
@@ -204,8 +204,9 @@ p {
   }
 
   .projects {
-    grid-template-columns: 1fr;
+    grid-template-columns: 1fr; /* 1 project per row on smaller screens */
   }
+  
   .project img
   {
     width: 200px;
