@@ -56,6 +56,7 @@ export default function Home() {
         <section id="projects">
           <h2>My Projects</h2>
           <div className="projects">
+
             <div className="project">
               <img src="/images/placeholder.png" alt="Project 1" />
               <h3>Quick POS</h3>
@@ -64,6 +65,7 @@ export default function Home() {
                 The catalog simplifies inventory management and enhances the shopping experience.</p>
               <a href="http://zaynwebsites.000.pe" target="_blank" rel="noreferrer">View Project</a>
             </div>
+
             <div className="project">
               <img src="/images/placeholder.png" alt="Project 2" />
               <h3>Home Choice Catalogue</h3>
@@ -73,6 +75,16 @@ export default function Home() {
                 This dual functionality improves operational efficiency for retail environments.</p>
               <a href="https://zaynuh.github.io/Home-Choice-Catalogue" target="_blank" rel="noreferrer">View Project</a>
             </div>
+
+            <div className="project">
+              <img src="/images/placeholder.png" alt="Project 2" />
+              <h3>Data Structures Repository</h3>
+              <p>This repository includes implementations of different data structures to showcase my understanding on their functionality and uses. 
+                 This includes data structures like: Stacks, Queues, LinkedLists, Trees, Binary Trees and many more.
+              </p>
+              <a href="https://zaynuh.github.io/Home-Choice-Catalogue" target="_blank" rel="noreferrer">View Project</a>
+            </div>
+
           </div>
         </section>
       </main>
