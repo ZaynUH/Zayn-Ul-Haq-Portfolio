@@ -59,14 +59,19 @@ export default function Home() {
             <div className="project">
               <img src="/images/placeholder.png" alt="Project 1" />
               <h3>Quick POS</h3>
-              <p>A short description of the project.</p>
-              <a href="https://github.com/your-github/project1" target="_blank" rel="noreferrer">View Project</a>
+              <p>This project is a digital catalog designed to assist my dad in showcasing the variety of bed frames and mattresses sold in the shop. 
+                It provides an organized, user-friendly interface to browse available products, compare features, and streamline the selection process for customers. 
+                The catalog simplifies inventory management and enhances the shopping experience.</p>
+              <a href="http://zaynwebsites.000.pe" target="_blank" rel="noreferrer">View Project</a>
             </div>
             <div className="project">
               <img src="/images/placeholder.png" alt="Project 2" />
-              <h3>Project Title 2</h3>
-              <p>A short description of the project.</p>
-              <a href="https://github.com/your-github/project2" target="_blank" rel="noreferrer">View Project</a>
+              <h3>Home Choice Catalogue</h3>
+              <p>Quick POS is a point-of-sale system developed as part of a university project I led. 
+                It allows users to manage shop items efficiently, enabling features like adding and appending items to transactions. 
+                Additionally, it doubles as an employee time tracking system, allowing staff to clock in and out seamlessly. 
+                This dual functionality improves operational efficiency for retail environments.</p>
+              <a href="https://zaynuh.github.io/Home-Choice-Catalogue" target="_blank" rel="noreferrer">View Project</a>
             </div>
           </div>
         </section>
