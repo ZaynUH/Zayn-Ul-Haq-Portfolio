@@ -41,7 +41,7 @@ export default function Home() {
           <ul>
             <li>Learning how navigate Vercel and NextJS Environments</li>
             <li>Developing 3 Versions of the board game Battleships on a console application using: Python, Haskell and Rust.</li>
-            <li>Slowing devloping a Fanatsy Fighting game on Roblox</li>
+            <li>Slowing developing a Fanatsy Fighting game on Roblox</li>
           </ul>
         </section>
 
