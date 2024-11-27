@@ -62,7 +62,7 @@ export default function Home() {
             <li><SiPhp size={24} /> PHP</li>
             <li><SiLua size={24} /> Lua</li>
             <li><SiVercel size={24} /> Vercel</li>
-            <li><SiNextdotjs size={24} /> Vercel</li>
+            <li><SiNextdotjs size={24} /> NextJS</li>
           </ul>
         </section>
 
