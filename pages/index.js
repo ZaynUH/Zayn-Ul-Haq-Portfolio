@@ -1,7 +1,7 @@
 import Head from 'next/head';
 import Image from 'next/image';
 import { FaLinkedin, FaGithub, FaEnvelope } from 'react-icons/fa';
-import { SiCsharp, SiPython, SiJavascript, SiHtml5, SiCss3, SiMysql, SiPhp, SiLua, SiVercel, SiJson, SiNextdotjs } from 'react-icons/si';
+import { SiCsharp, SiPython, SiJavascript, SiHtml5, SiCss3, SiMysql, SiPhp, SiLua, SiVercel, SiJson, SiNextdotjs, SiLeetcode } from 'react-icons/si';
 
 export default function Home() {
   return (
@@ -25,11 +25,14 @@ export default function Home() {
             <a href="https://linkedin.com/in/your-profile" target="_blank" rel="noreferrer">
               <FaLinkedin size={24} /> LinkedIn
             </a> 
-            <a href="mailto:your.email@example.com">
+            <a href="zayn442@hotmail.com">
               <FaEnvelope size={24} /> Email
             </a> 
-            <a href="https://github.com/your-github" target="_blank" rel="noreferrer">
+            <a href="https://github.com/ZaynUH" target="_blank" rel="noreferrer">
               <FaGithub size={24} /> GitHub
+            </a>
+            <a href="https://leetcode.com/u/Zayn011" target="_blank" rel="noreferrer">
+              <SiLeetcode size={24} /> GitHub
             </a>
           </div>
         </section>
