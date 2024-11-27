@@ -32,7 +32,7 @@ export default function Home() {
               <FaGithub size={24} /> GitHub
             </a>
             <a href="https://leetcode.com/u/Zayn011" target="_blank" rel="noreferrer">
-              <SiLeetcode size={24} /> GitHub
+              <SiLeetcode size={24} /> LeetCode
             </a>
           </div>
         </section>
