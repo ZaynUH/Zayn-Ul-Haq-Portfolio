@@ -22,10 +22,10 @@ export default function Home() {
              will help consolidate my skills and introduce me to new technologies. I love to brainstorm ideas and bring them to life using my programming and problem-solving skills.
              This portfolio serves as a personal archive on the projects I am proud to showcase to others. Just like this website which is also developed by me!</p>
           <div>
-            <a href="https://linkedin.com/in/your-profile" target="_blank" rel="noreferrer">
+            <a href="https://www.linkedin.com/in/zayn-ul-haq-31106933b" target="_blank" rel="noreferrer">
               <FaLinkedin size={24} /> LinkedIn
             </a> 
-            <a href="zayn442@hotmail.com">
+            <a href="mailto:zayn442@hotmail.com">
               <FaEnvelope size={24} /> Email
             </a> 
             <a href="https://github.com/ZaynUH" target="_blank" rel="noreferrer">
