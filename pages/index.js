@@ -109,7 +109,7 @@ export default function Home() {
 
             <div className="project">
               <img src="/images/placeholder.png" alt="Project 5" />
-              <h3>Battleships</h3>
+              <h3>Annotation Tool</h3>
               <p>My Final Year project in which i participated in the module Human Centred Computing. This project is a medical annotation tool which can be used 
                 as a multi-purpose Annotation Tool, in which account creation exists to store work. Will be updated frequently to add features.
               </p>
