@@ -42,8 +42,7 @@ export default function Home() {
           <h2>Currently Doing</h2>
           <p>Here’s what I’m actively working on:</p>
           <ul>
-            <li>Learning how navigate Vercel and NextJS Environments</li>
-            <li>Developing 3 Versions of the board game Battleships on a console application using: Python, Haskell and Rust.</li>
+            <li>Creating a math brain game</li>
             <li>Slowing developing a Fanatsy Fighting game on Roblox</li>
           </ul>
         </section>
@@ -108,6 +107,14 @@ export default function Home() {
               <a href="https://github.com/ZaynUH/Battleships" target="_blank" rel="noreferrer">View Project</a>
             </div>
 
+            <div className="project">
+              <img src="/images/placeholder.png" alt="Project 5" />
+              <h3>Battleships</h3>
+              <p>My Final Year project in which i participated in the module Human Centred Computing. This project is a medical annotation tool which can be used 
+                as a multi-purpose Annotation Tool, in which account creation exists to store work. Will be updated frequently to add features.
+              </p>
+              <a href="https://github.com/ZaynUH/Battleships" target="_blank" rel="noreferrer">View Project</a>
+            </div>
           </div>
         </section>
       </main>
