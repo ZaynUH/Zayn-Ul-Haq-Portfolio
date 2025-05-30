@@ -91,12 +91,21 @@ export default function Home() {
             </div>
 
             <div className="project">
-              <img src="/images/placeholder.png" alt="Project 2" />
+              <img src="/images/placeholder.png" alt="Project 3" />
               <h3>Data Structures Repository</h3>
               <p>This repository includes implementations of different data structures to showcase my understanding on their functionality and uses. 
                  This includes data structures like: Stacks, Queues, LinkedLists, Trees, Binary Trees and many more.
               </p>
               <a href="https://zaynuh.github.io/Home-Choice-Catalogue" target="_blank" rel="noreferrer">View Project</a>
+            </div>
+
+            <div className="project">
+              <img src="/images/placeholder.png" alt="Project 4" />
+              <h3>Battleships</h3>
+              <p>A module inside my third year was to create multiple battleships game in varrying programming languages 
+                within a Console Application. 
+              </p>
+              <a href="https://github.com/ZaynUH/Battleships" target="_blank" rel="noreferrer">View Project</a>
             </div>
 
           </div>
